@@ -31,9 +31,6 @@ The system is a basic administrative tool for schools to manage student data, ca
 - Managing fixed-size data structures (arrays limited to 100 entries).
 - Building program logic using a procedural style.
 
-## 📌 Note
-This project represents my starting point in Computer Science and laid the groundwork for my transition into OOP, data structures, and other languages.
-
 ## ✅ Getting started
 1. Compile: javac Main.java
 2. Run: java Main
